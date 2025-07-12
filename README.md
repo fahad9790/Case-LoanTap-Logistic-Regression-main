@@ -6,9 +6,6 @@
 <kbd>![Screenshot 2024-05-24 205644](https://github.com/KasiMuthuveerappan/LoanTap-LogisticRegression/assets/142071405/31e9cd41-dbcb-4c57-a5aa-7705be2fca00)</kbd>
 
 
-## 📝 Case Report
-- You can access the complete Case python file here - [Python](Add link here)
-- You can access the complete Casestudy in pdf format here - [Report](Add link here)
 
 ## 💳Introduction:
 
