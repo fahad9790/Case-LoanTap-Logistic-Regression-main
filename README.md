@@ -1,4 +1,4 @@
-# 10.6-Biz-Case-LoanTap-Logistic-Regression
+# LoanTap-Logistic-Regression
 
 <h1 align='center'> <font color='magenta'><font size=7>💷💳LoanTap - ML CaseStudy💳💷 </font> </font></h1>
 <h1 align='center'><font color='purple'><font size=6>Logistic Regression</font> </font></h1>
